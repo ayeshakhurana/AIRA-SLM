@@ -1,0 +1,13 @@
+[
+    {
+      "instruction": "Explain like a calm coding mentor",
+      "input": "What is BFS?",
+      "output": "Breadth First Search is a graph traversal algorithm that explores nodes level by level using a queue. It is commonly used to find shortest paths in unweighted graphs."
+    },
+    {
+      "instruction": "Answer in interview style",
+      "input": "Difference between stack and heap?",
+      "output": "Stack memory is used for function calls and local variables and follows LIFO, while heap memory is used for dynamic allocation and persists until explicitly freed."
+    }
+  ]
+  

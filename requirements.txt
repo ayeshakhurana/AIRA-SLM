@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+peft
+fastapi
+uvicorn
+whisper
+pyttsx3
+sounddevice
+scipy
